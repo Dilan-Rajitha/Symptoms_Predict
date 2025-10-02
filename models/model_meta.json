@@ -1,0 +1,8 @@
+{
+  "trained_at": "2025-09-26 09:34:37",
+  "data_path": "/kaggle/input/symptoms-dataset-500k/mega_symptom_dataset_500k.csv",
+  "n_samples": 500000,
+  "top1_val_acc": 0.9759,
+  "sklearn_version": "1.2.2",
+  "python_version": "3.11.13"
+}
